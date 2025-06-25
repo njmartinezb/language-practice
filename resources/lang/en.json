@@ -1,0 +1,47 @@
+{
+    "Categorías": "Categories",
+    "Crear nueva categoría": "Create new category",
+    "Correo Electrónico" : "Email",
+    "Cerrar Sesión": "Log Out",
+    "Contraseña" : "Password",
+    "Recuerdame": "Remember Me",
+    "Olvidaste tu contraseña?": "Forgot your password?",
+    "Inicia Sesión": "Log in",
+    "Confirmar Contraseña": "Confirm Password",
+    "Registrarse": "Register",
+    "Ya estas registrado?": "Already registered?",
+    "ID": "ID",
+    "Perfil":  "Profile",
+    "Nombre": "Name",
+    "Descripción": "Description",
+    "Fecha de creación": "Creation date",
+    "Acciones": "Actions",
+    "Editar": "Edit",
+    "¿Seguro que deseas eliminar?": "Are you sure you want to delete?",
+    "Eliminar": "Delete",
+    "No hay categorías registradas.": "No categories found.",
+
+    "Crear categoría": "Create category",
+    "Ingresa el nombre": "Enter the name",
+    "Ingresa la descripción (opcional)": "Enter the description (optional)",
+    "Guardar": "Save",
+    "Cancelar": "Cancel",
+
+    "Editar categoría": "Edit category",
+    "Actualiza el nombre": "Update the name",
+    "Actualiza la descripción (opcional)": "Update the description (optional)",
+
+    "Productos": "Products",
+    "Crear nuevo producto": "Create new product",
+    "Precio": "Price",
+    "Categoría": "Category",
+    "No hay productos registrados.": "No products found.",
+
+    "Crear producto": "Create product",
+    "0.00": "0.00",
+    "Selecciona una categoría": "Select a category",
+
+    "Editar producto": "Edit product",
+    "Actualizar": "Update",
+    "Estas registrado!": "You're logged in"
+}
